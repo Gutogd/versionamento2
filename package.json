@@ -1,0 +1,23 @@
+{
+  "name": "vs2",
+  "version": "0.0.1",
+  "description": "versionamento",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gutogd/versionamento2.git"
+  },
+  "keywords": [
+    "node.js",
+    "Javascript"
+  ],
+  "author": "Augusto G Dias",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gutogd/versionamento2/issues"
+  },
+  "homepage": "https://github.com/Gutogd/versionamento2#readme"
+}
